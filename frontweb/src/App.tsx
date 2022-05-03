@@ -1,10 +1,10 @@
 import './assets/styles/custom.scss';
 import './App.css';
-import Catalog from 'pages/Catalog';
+import SystemRoutes from 'SystemRoutes';
 
 function App() {
   return (
-    <Catalog />
+    <SystemRoutes />
   );
 }
 
